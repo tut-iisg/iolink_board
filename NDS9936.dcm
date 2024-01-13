@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NDS9936
+D N-CHANNEL POWER MOSFET
+K
+F https://pdf1.alldatasheet.com/datasheet-pdf/view/54209/FAIRCHILD/NDS9936.html
+$ENDCMP
+#
+#End Doc Library

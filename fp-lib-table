@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "myLIB")(type "KiCad")(uri "/home/hori/KiCAD/iolink")(options "")(descr ""))
+)
